@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Ankit Kishan\\block_chain_dapp\\contracts\\upload.sol": {
+      "lastModificationDate": 1682176194958,
+      "contentHash": "d6b7d264ce76ddaf36a941b6fd9a100d",
+      "sourceName": "contracts/upload.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "upload"
+      ]
+    },
+    "C:\\Users\\Ankit Kishan\\block_chain_dapp\\contracts\\upload2.sol": {
+      "lastModificationDate": 1682182577413,
+      "contentHash": "96427e6ff9391001df826c1b25752137",
+      "sourceName": "contracts/upload2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "upload2"
+      ]
+    }
+  }
+}
